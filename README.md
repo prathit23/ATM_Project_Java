@@ -1,7 +1,7 @@
 # ATM_Project_Java
 The following project represents basic functioning of an ATM
 
-The class diagram 
+The class diagram: 
 ![](ERD.png)
 
 Reference:
